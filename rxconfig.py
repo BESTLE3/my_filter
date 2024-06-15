@@ -2,5 +2,5 @@ import reflex as rx
 
 config = rx.Config(
     app_name="Reflext",
-    api_url="https://my-filter-app.reflex.run:8000"
+    api_url="https://tangerine-bubblegum-f6f58f.netlify.app:8000"
 )
